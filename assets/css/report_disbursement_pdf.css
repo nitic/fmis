@@ -1,0 +1,65 @@
+table { border: 0.5mm solid black;
+	border-collapse: collapse;
+	width: 100%;
+	}
+
+thead th {
+	padding: 2mm;
+	border: 0.1mm solid black;
+	vertical-align: middle;
+    text-align: center;
+    font-size: 12pt;
+    font-weight: bold;
+}
+tbody td {
+	padding: 1.5mm;
+	border: 0.1mm solid black;
+	vertical-align: middle;
+
+}
+
+tbody td.plan-level {
+     font-weight: bold;
+   
+}
+
+tbody td.product-level {
+     font-weight: bold;
+	 padding-left:5mm;
+    
+}
+
+tbody td.cost-level {
+	 font-weight: bold;
+     padding-left:10mm;
+}
+
+tbody td.cost-group-level {
+     padding-left:15mm;
+     font-weight: bold;
+   
+}
+
+tbody td.cost-type-level {
+     padding-left:15mm;
+   
+}
+
+tbody td.cost-lists-level {
+     padding-left:25mm;
+}
+
+tfoot td {
+	padding: 2mm;
+	border: 0.1mm solid black;
+	vertical-align: middle;
+    font-weight: 500;
+    text-align:right;
+}
+h3 {
+    font-size:14pt;
+}
+h5 {
+	line-height: 1pt;
+    font-size:10pt;
+}

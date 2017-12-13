@@ -1,0 +1,42 @@
+table { border: 0.5mm solid black;
+	border-collapse: collapse;
+	width: 100%;
+	}
+
+ th {
+	padding: 2mm;
+	border: 0.1mm solid black;
+	vertical-align: middle;
+    text-align: center;
+    font-size: 12pt;
+    font-weight: bold;
+    height:30px;
+    background-color:#eee;
+}
+ td {
+	padding: 1.5mm;
+	border: 0.1mm solid black;
+	vertical-align: middle;
+    text-align: center;
+
+}
+td.name {
+	padding-left:5px;
+    text-align: left;
+}
+
+td.money {
+    text-align: right;
+}
+
+td.relation {
+    background-color:#ddd;
+}
+
+h3 {
+    font-size:14pt;
+}
+h5 {
+	line-height: 1pt;
+    font-size:10pt;
+}

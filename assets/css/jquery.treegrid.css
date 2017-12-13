@@ -1,0 +1,6 @@
+.teegrid-indent {width:16px; height: 16px; display: inline-block; position: relative;}
+
+.teegrid-expander {width:16px; height: 16px; display: inline-block; position: relative; cursor: pointer;}
+
+.teegrid-expander-expanded{background-image: url(../img/collapse.png); }
+.teegrid-expander-collapsed{background-image: url(../img/expand.png);}
